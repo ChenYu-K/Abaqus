@@ -1,7 +1,5 @@
 # Abaqus
-[![abaqus]]()  
-![GitHub](https://img.shields.io/github/license/Kaede-cycy/data-prossing?logoColor=green&style=plastic)  
-[![ocu-shield]][ocu]  
+[![abaqus]]()  ![GitHub](https://img.shields.io/github/license/Kaede-cycy/data-prossing?logoColor=green&style=plastic)  [![ocu-shield]][ocu]  
 
 automatic for Abaqus
 通过python 实现abaqus的自动化
